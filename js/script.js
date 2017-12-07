@@ -20,11 +20,16 @@
 
 //GLOBAL VARIABLES
 
-
+var userchoice = '' ;
+var winner = '';
+var computerchoice = '';
+var choices = ['rock','paper', 'scissors'];
 
 //FUNCTIONS
 
-
+$(document).ready(function() {
+        
+});
 
 // DOCUMENT READY FUNCTION
 
